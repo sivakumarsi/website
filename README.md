@@ -6,3 +6,8 @@
 
 ### 2. Lost Castle of Hades
 
+<style>
+  .footer {
+    display: none;
+  }
+</style>
